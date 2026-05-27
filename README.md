@@ -2,7 +2,7 @@
 
 A real-time dashboard for monitoring and controlling AI agents. Spawn, steer, and track multiple agents from a single interface.
 
-**Live Demo:** https://agent-swarm.vercel.app
+**Live Demo:** https://agent-swarm-dashboard-eight.vercel.app
 
 ## Features
 
