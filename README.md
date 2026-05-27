@@ -4,6 +4,19 @@ A real-time dashboard for monitoring and controlling AI agents. Spawn, steer, an
 
 **Live Demo:** https://agent-swarm-dashboard-eight.vercel.app
 
+![Dashboard Preview](https://img.shields.io/badge/Theme-Dark-6c5ce7) ![Real-time](https://img.shields.io/badge/Real--time-WebSocket-00cec9) ![Agents](https://img.shields.io/badge/Agents-Multi--role-ff6b6b)
+
+## UI Features
+
+- **Dark theme** dashboard with purple/teal accent colors
+- **Sidebar** with live stats (active agents, cost, tokens)
+- **Agent cards** with status indicators (pulsing green for running)
+- **Real-time log viewer** with color-coded levels (info/success/warn/error)
+- **Role selection** grid with emoji icons (Researcher, Coder, Reviewer, Writer, Analyst, Tester)
+- **Stop & Steer** controls per agent
+- **Toast notifications** for agent events
+- **WebSocket auto-reconnect** with connection status badge
+
 ## Features
 
 - Spawn AI agents with custom name, role, and task prompt
